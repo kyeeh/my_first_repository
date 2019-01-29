@@ -1,1 +1,1 @@
-*My first* repo with *Holberton School*
+*My first* *repo* with *Holberton School*
